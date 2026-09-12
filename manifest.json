@@ -4,21 +4,21 @@
   "description": "Daily weight tracker",
   "start_url": "/weight-track/",
   "display": "standalone",
-  "background_color": "#e8f0ed",
-  "theme_color": "#B5C9C0",
+  "background_color": "#8dcbfa",
+  "theme_color": "#72B8EF",
   "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
